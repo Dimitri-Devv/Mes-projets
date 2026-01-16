@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="FrmAccueil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAfficherClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAfficherCommande.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAfficherCommandes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAfficherDonneesVeterinaire.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAfficherFournisseurs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAfficherLesVeterinaires.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAfficherPortee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAfficherVeterinaire.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAjouterAnimal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAjouterClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAjouterCommande.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAjouterFournisseur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAjouterPortee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAjouterRace.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAjouterStatut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAjouterType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAjouterUnVeterinaire.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAjouterVaccin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAjoutPoids.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmConnexion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmCourbePoids.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmModifierClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmModifierCommande.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmModifierFournisseur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmModifierRace.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmModifierStatut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmModifierType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmModifierUnVeterinaire.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmModifierVaccin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmOnglet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmProfilAnimal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmSupprimerAnimal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmSupprimerClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmSupprimerCommande.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmSupprimerFournisseur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmSupprimerRace.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmSupprimerStatut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmSupprimerType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmSupprimerUnVeterinaire.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmSupprimerVaccin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmTableauPoids.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmVaccination.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
