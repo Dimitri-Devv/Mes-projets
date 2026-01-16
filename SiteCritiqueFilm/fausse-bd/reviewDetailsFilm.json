@@ -1,0 +1,52 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "createdAt": "2025-11-18T13:45:00Z",
+      "title": "Chef d’œuvre absolu",
+      "content": "Un film incroyable, porté par une mise en scène magistrale et une BO hypnotisante.",
+      "rating": 9,
+      "imageUrl": null,
+      "likesCount": 12,
+      "dislikesCount": 1,
+      "filmId": 18,
+      "user": {
+        "id": 7,
+        "username": "Admin",
+        "avatarUrl": "https://xsgames.co/randomusers/avatar.php?g=male"
+      }
+    },
+    {
+      "id": 2,
+      "createdAt": "2025-11-18T14:10:00Z",
+      "title": "Très bon mais long",
+      "content": "C’est brillant, mais un peu trop bavard. Je suis sorti lessivé !",
+      "rating": 8,
+      "imageUrl": null,
+      "likesCount": 5,
+      "dislikesCount": 2,
+      "filmId": 18,
+      "user": {
+        "id": 12,
+        "username": "CineFan",
+        "avatarUrl": "https://xsgames.co/randomusers/avatar.php?g=female"
+      }
+    },
+    {
+      "id": 3,
+      "createdAt": "2025-11-18T15:00:00Z",
+      "title": "Pas compris l’engouement",
+      "content": "Visuellement superbe, mais j’ai trouvé ça trop lent et confus.",
+      "rating": 6,
+      "imageUrl": null,
+      "likesCount": 1,
+      "dislikesCount": 7,
+      "filmId": 18,
+      "user": {
+        "id": 22,
+        "username": "MovieAddict",
+        "avatarUrl": "https://xsgames.co/randomusers/avatar.php?g=male"
+      }
+    }
+  ]
+}

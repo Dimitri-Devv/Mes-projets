@@ -1,0 +1,37 @@
+{
+  "comments": [
+    {
+      "id": 101,
+      "createdAt": "2025-11-18T14:00:00Z",
+      "content": "Totalement d’accord avec toi ! J'ai adoré ce film et je n'hésiterai pas à le regarder de nouveau.",
+      "reviewId": 1,
+      "user": {
+        "id": 12,
+        "username": "CineFan",
+        "avatarUrl": "https://xsgames.co/randomusers/avatar.php?g=female"
+      }
+    },
+    {
+      "id": 102,
+      "createdAt": "2025-11-18T14:05:00Z",
+      "content": "Cette scène de fin m’a détruit.",
+      "reviewId": 1,
+      "user": {
+        "id": 22,
+        "username": "MovieAddict",
+        "avatarUrl": "https://xsgames.co/randomusers/avatar.php?g=male"
+      }
+    },
+    {
+      "id": 103,
+      "createdAt": "2025-11-18T15:20:00Z",
+      "content": "Je comprends ton point de vue ahah",
+      "reviewId": 3,
+      "user": {
+        "id": 7,
+        "username": "Admin",
+        "avatarUrl": "https://xsgames.co/randomusers/avatar.php?g=male"
+      }
+    }
+  ]
+}

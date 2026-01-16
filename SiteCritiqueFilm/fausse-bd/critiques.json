@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "user": "William",
+    "film": "Tu ne tueras point",
+    "note": 9.7,
+    "commentaire": "Dès les premières minutes, le film impose une atmosphère unique...",
+    "avatar": "http://localhost:5173/fausse-bd/tu-ne-tuera-point.webp"
+  },
+  {
+    "id": 2,
+    "user": "Emma",
+    "film": "Inception",
+    "note": 9.2,
+    "commentaire": "Un film brillant qui mélange rêve et réalité avec une virtuosité rare.",
+    "avatar": "http://localhost:5173/fausse-bd/user-2.webp"
+  },
+  {
+    "id": 3,
+    "user": "Lucas",
+    "film": "Interstellar",
+    "note": 8.9,
+    "commentaire": "Une odyssée spatiale émouvante et visuellement époustouflante.",
+    "avatar": "http://localhost:5173/fausse-bd/user-3.webp"
+  },
+  {
+    "id": 4,
+    "user": "Sophie",
+    "film": "La La Land",
+    "note": 8.5,
+    "commentaire": "Un hommage vibrant aux comédies musicales classiques avec une touche moderne.",
+    "avatar": "http://localhost:5173/fausse-bd/user-4.webp"
+  },
+  {
+    "id": 5,
+    "user": "Maxime",
+    "film": "Parasite",
+    "note": 9.4,
+    "commentaire": "Une satire sociale brillante qui tient en haleine du début à la fin.",
+    "avatar": "http://localhost:5173/fausse-bd/user-5.webp"
+  },
+  {
+    "id": 6,
+    "user": "Chloé",
+    "film": "Le Fabuleux Destin d'Amélie Poulain",
+    "note": 9.0,
+    "commentaire": "Un film charmant qui capture la magie du quotidien avec poésie et humour.",
+    "avatar": "http://localhost:5173/fausse-bd/user-6.webp"
+  }
+]
